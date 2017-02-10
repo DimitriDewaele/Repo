@@ -1,3 +1,3 @@
-# Repository A
+# Merged repository
 
-Readme file for repository A
+Repository A + B are merged here.
